@@ -1,0 +1,11 @@
+{
+  "Id": "IncreaseInventory",
+  "DisplayName": "Increase Inventory",
+  "Author": "Kaupcakes",
+  "Version": "1.2.0",
+  "Requires": [ ],
+  "Enable": true,
+  "AssemblyName": "IncreaseInventory.dll",
+  "EntryMethod": "IncreaseInventory.MainPatcher.Patch",
+  "Config": {}
+}
